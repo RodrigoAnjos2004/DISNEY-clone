@@ -6,7 +6,8 @@
 }
 body {
   font-family: 'Avenir LT Pro', sans-serif;  
-  background: radial-gradient(#0a1286, #38054d);
+  background: rgb(65,5,84);
+  background: linear-gradient(90deg, rgba(65,5,84,1) 10%, rgba(39,16,103,1) 50%, rgba(65,5,84,1) 90%);
   height: 150vh;
 }
 a {
